@@ -1,0 +1,29 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+
+   
+}
+.heading{
+    font-size: 10rem;
+    font-weight: 900;
+    background: url("https://media.istockphoto.com/id/1145604197/photo/rose-and-warm-light-in-garden-background.jpg?s=612x612&w=0&k=20&c=71Y-z26VtRPFiJ6XFdkQzoRued06Y-yK56Fn6ugOa7M=");
+    background-clip: text;
+    background-size: cover;
+    -webkit-background-clip: text;
+    color:transparent;
+
+
+    
+    
+
+
+}
